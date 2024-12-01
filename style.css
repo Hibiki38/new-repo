@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+    color: #987;
+}
+
+.header__image {
+    width: 50%;
+    height: 100vh;
+}
+
+.main {
+    text-align: center;
+    color: #985;
+}
+
+.main__title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.main__content {
+    font-size: 20px;
+    color: #000;
+}
